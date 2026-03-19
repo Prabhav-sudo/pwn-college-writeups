@@ -1,15 +1,15 @@
-#Hello - Linux Luminarium
+# Hello - Linux Luminarium
 
-##The challenge
+## The challenge
 Run the 'hello' command to get the flag.
 
-##Solution
+## Solution
 '''bash
 hacker@hello~intro-to-commands:~$ hello
 '''
 
-##learning
+## learning
 how to invoke basic command in linux , the commands are case sensitive.
 
-##Flag
+## Flag
 pwn.college{IXJbOGxnls9IQevXdpDs0vgFjF0.QX3YjM1wyM1UjM2EzW}
